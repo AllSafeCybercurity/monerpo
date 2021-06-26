@@ -1,3 +1,6 @@
+![200](https://user-images.githubusercontent.com/73909878/123528496-5db02800-d69c-11eb-95e0-0c63e036ebe8.gif)
+
+
 This is the reference code for [CryptoNote](https://cryptonote.org) cryptocurrency protocol.
 
 * Launch your own CryptoNote currency: [CryptoNote Starter](https://cryptonotestarter.org/)
